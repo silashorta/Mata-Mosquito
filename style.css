@@ -1,11 +1,12 @@
 html{
-    cursor: url(imagem/mata_mosca.png)30 30, auto;
+    cursor: url(imagem/mata_mosca.png)30 30;
 }
 
 body{
     background-image: url(imagem/bg.jpg);
     background-repeat: no-repeat;
-    background-size: 100%;
+    width: 100%;
+    object-fit: fill;
 }
 
 .mosquito1{
