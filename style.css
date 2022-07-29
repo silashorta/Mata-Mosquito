@@ -5,7 +5,8 @@ html{
 body{
     background-image: url(imagem/bg.jpg);
     background-repeat: no-repeat;
-    background-size: auto;
+    background-size: cover;
+    height: 100vh;
 }
 
 .mosquito1{
